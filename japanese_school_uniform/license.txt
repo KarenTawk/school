@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese School Uniform
+* source:	https://sketchfab.com/3d-models/japanese-school-uniform-5358af0b05724d509be427628a316397
+* author:	sivayuce (https://sketchfab.com/sivayuce)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese School Uniform" (https://sketchfab.com/3d-models/japanese-school-uniform-5358af0b05724d509be427628a316397) by sivayuce (https://sketchfab.com/sivayuce) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
